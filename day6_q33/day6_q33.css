@@ -1,0 +1,11 @@
+#result_screen {
+    width: 300px;
+    height: 100px;
+    background-color: pink;
+}
+#screen{
+    display: flex;
+    flex-direction: row;
+    flex-basis: 1fr 1fr 1fr;
+    height: 400px;
+}
